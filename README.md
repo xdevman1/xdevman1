@@ -21,6 +21,15 @@
 
 ---
 
+### 📚 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xdevman1&show_icons=true&theme=radical" height="180"/>
@@ -43,10 +52,8 @@
   <a href="https://pb-celestial.site"><img src="https://img.shields.io/badge/My%20Website-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-
 ---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdevman1&theme=react-dark&hide_border=true" />
 </p>
-
