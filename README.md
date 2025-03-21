@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Milad Danish!</h1>
+<h1 align="center">👋 Hey, I'm Devman!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Bot+Creator;Roblox+Game+Dev;Cybersecurity+Learner;15+y.o.+Tech+Enthusiast!" />
 </p>
@@ -14,7 +14,9 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,nodejs,react,tailwind,mongodb,express,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,tailwind,github" />
+  <img src="https://img.shields.io/badge/Discord%20Applications-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Designer-%2300F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
 
 ---
