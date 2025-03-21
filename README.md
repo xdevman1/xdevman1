@@ -14,9 +14,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,tailwind,github" />
-  <img src="https://img.shields.io/badge/Discord%20Applications-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Designer-%2300F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,lua,tailwind,github,vercel,discord,docker,vscode" />
 </p>
 
 ---
