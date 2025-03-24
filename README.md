@@ -37,8 +37,8 @@
 ---
 
 ### 🧠 Currently Working On
-- 🎮 Roblox FPS Game with Team System
-- 🤖 Discord AI Bot with `/setchannel` and history
+- 🎮 Roblox FPS Game
+- 🤖 Discord AI Bot with custom sys prompt and history
 - ✨ Custom AI Model: **PblockerGPT**
 - Many more...
 
