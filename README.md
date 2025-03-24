@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Devman!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Bot+Creator;Roblox+Game+Dev;Cybersecurity+Learner;15+y.o.+Tech+Enthusiast;Discord+Bot+Dev!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Bot+Creator;Roblox+Game+Dev;Cybersecurity+Learner;15+yo;Discord+Bot+Dev!" />
 </p>
 
 ---
