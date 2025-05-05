@@ -37,17 +37,13 @@
 ---
 
 ### 🧠 Currently Working On
-- 🎮 Roblox FPS Game
-- 🤖 Discord AI Bot with custom sys prompt and history
-- ✨ Custom AI Model: **PblockerGPT**
-- Many more...
-
+- 🤖 Ai
 ---
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://discord.com/users/1074222869162250281"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://pb-celestial.site"><img src="https://img.shields.io/badge/My%20Website-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://https://xdevman.is-a.dev/"><img src="https://img.shields.io/badge/My%20Website-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
