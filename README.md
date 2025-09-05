@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Devman!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Bot+Creator;Roblox+Game+Dev;Cybersecurity+Learner;15+yo;Discord+Bot+Dev!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Bot+Creator;Roblox+Game+Dev;Cybersecurity+Learner;16+yo;Discord+Bot+Dev!" />
 </p>
 
 ---
@@ -37,7 +37,8 @@
 ---
 
 ### 🧠 Currently Working On
-- 🤖 Ai
+- Nothing :<
+- But if you happen to be on my page and you need anything lmk just text me on discord or email me i will reach out as quick as ican. :D
 ---
 
 ### 📫 Connect With Me
