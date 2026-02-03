@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- I am in high school 3rd year and coding is my fav thing to do when i am free or when i am not free.
+- I am in high school 3rd year, i love making thingsss, its fun isnt it?. ig this is all i could say :>
 
 ---
 
