@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- I am in high school 3rd year, i love making thingsss, its fun isnt it?. ig this is all i could say :>
+- I am in high school 4th grade , i love making thingsss, its fun isnt it?. ig this is all i could say :>
 
 ---
 
